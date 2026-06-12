@@ -4,7 +4,7 @@
   "private": true,
   "scripts": {
     "dev": "npm --prefix my-celo-app run dev",
-    "build": "npm --prefix my-celo-app run build",
+    "build": "npm --prefix my-celo-app install && npm --prefix my-celo-app run build",
     "preview": "npm --prefix my-celo-app run preview"
   }
 }
