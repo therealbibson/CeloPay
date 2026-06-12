@@ -1,0 +1,23 @@
+# Dependencies
+node_modules/
+my-celo-app/node_modules/
+my-celo-app/apps/web/dist/
+
+# Local env files
+.env
+.env.local
+.env.*.local
+my-celo-app/.env
+my-celo-app/.env.local
+my-celo-app/.env.*.local
+
+# IDEs/System
+.idea/
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+.DS_Store
+Thumbs.db

@@ -1,0 +1,10 @@
+{
+  "name": "celopay-frontend-root",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "npm --prefix my-celo-app run dev",
+    "build": "npm --prefix my-celo-app run build",
+    "preview": "npm --prefix my-celo-app run preview"
+  }
+}
